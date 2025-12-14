@@ -1,5 +1,55 @@
-# 💫 About Me:
-About Me<br><br>Hi, I’m Fathi — a Frontend Development and UI/UX Engineering.<br><br>I enjoy building digital products that are not only visually appealing, but also logical, user-centric, and easy to implement from a developer’s perspective. For me, good design is not just about looks — it’s about clarity, usability, and scalability.<br><br> 💡 What I Do<br><br>🎨 Design intuitive and clean interfaces using Figma<br><br>💻 Develop Laravel frontend features with a focus on usability and responsiveness<br><br>🧠 Translate design concepts into developer-friendly implementations<br><br>🎮 Work with Unity for UI implementation, including AR/VR experiences<br><br>🛠 Tech & Tools<br><br>Design: Figma<br><br>Frontend: HTML, CSS, JavaScript, Laravel<br><br>Programming: C#, basic PHP backend concepts<br><br>Game / Immersive UI: Unity, AR/VR UI Design<br><br>Creative Tools: Photoshop, Premiere Pro, After Effects<br><br><br> 🚀 Experience Highlights<br><br>Corporate website semi-fullstack developer<br><br>UI/UX Engineer internship experience<br><br>Designed and implemented UI for a VR welding simulation, using familiar real-world indicators (speedometer, gauge, depth lines) for better usability<br><br><br>🌱 Currently Exploring<br><br>Advanced frontend development<br><br>Better design–development workflows<br><br>Building scalable and maintainable UI systems
+## About Me
+
+Hi, I’m Fathi — a Frontend Development and UI/UX Engineering.
+
+I enjoy building digital products that are not only visually appealing, but also logical, user-centric, and easy to implement from a developer’s perspective. For me, good design is not just about looks — it’s about clarity, usability, and scalability.
+
+---
+
+### 💡 What I Do
+
+🎨 Design intuitive and clean interfaces using Figma
+
+💻 Develop Laravel frontend features with a focus on usability and responsiveness
+
+🧠 Translate design concepts into developer-friendly implementations
+
+🎮 Work with Unity for UI implementation, including AR/VR experiences
+
+---
+
+### 🛠 Tech & Tools
+
+Design: Figma
+
+Frontend: HTML, CSS, JavaScript, Laravel
+
+Programming: C#, basic PHP backend concepts
+
+Game / Immersive UI: Unity, AR/VR UI Design
+
+Creative Tools: Photoshop, Premiere Pro, After Effects
+
+---
+
+### 🚀 Experience Highlights
+
+Corporate website semi-fullstack developer
+
+UI/UX Engineer internship experience
+
+Designed and implemented UI for a VR welding simulation, using familiar real-world indicators (speedometer, gauge, depth lines) for better usability
+
+---
+
+### 🌱 Currently Exploring
+
+Advanced frontend development
+
+Better design–development workflows
+
+Building scalable and maintainable UI systems
+
 
 
 ## 🌐 Socials:
